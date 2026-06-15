@@ -14,7 +14,6 @@ I enjoy creating software that combines functionality with simplicity. From deve
 * 💡 Interested in Software Development, Backend Systems, and Full Stack Applications
 * 🧠 Practicing Data Structures & Algorithms
 * 🚀 Building projects to strengthen practical development skills
-* 📍 Based in Gujarat, India
 
 ---
 
