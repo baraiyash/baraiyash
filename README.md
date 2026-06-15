@@ -52,7 +52,7 @@ I enjoy building applications that solve real-world problems while continuously 
 
 ## 🚀 Featured Projects
 
-### 🏦 [Bank Management System](https://github.com/YOUR_USERNAME/BankManagementSystem)
+### 🏦 [Bank Management System](https://github.com/baraiyash/BankManagementSystem)
 
 Desktop banking application developed using Java Swing, Applet, and MySQL for managing banking operations and customer transactions.
 
@@ -60,7 +60,7 @@ Desktop banking application developed using Java Swing, Applet, and MySQL for ma
 
 ---
 
-### 🎓 [Campus Connect – University Management System](https://github.com/YOUR_USERNAME/Campus-Connect-University-Management-System-Master)
+### 🎓 [Campus Connect – University Management System](https://github.com/baraiyash/Campus-Connect-University-Management-System-Master)
 
 Role-based Core Java application for managing students, professors, courses, attendance, study materials, and academic operations.
 
@@ -68,7 +68,7 @@ Role-based Core Java application for managing students, professors, courses, att
 
 ---
 
-### 🌐 [University Management System](https://github.com/YOUR_USERNAME/University-Management-System)
+### 🌐 [University Management System](https://github.com/baraiyash/University-Management-System)
 
 Full-stack MERN web application for managing students, professors, courses, attendance, study materials, and academic workflows.
 
@@ -76,7 +76,7 @@ Full-stack MERN web application for managing students, professors, courses, atte
 
 ---
 
-### 📚 [College Course Registration System](https://github.com/YOUR_USERNAME/College-Course-Registration-System)
+### 📚 [College Course Registration System](https://github.com/baraiyash/College-Course-Registration-System)
 
 Console-based Java application for managing course registrations, student enrollments, course search, and administrative operations using OOP principles.
 
