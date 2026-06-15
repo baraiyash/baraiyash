@@ -1,8 +1,9 @@
-# Hi there 👋, I'm Yash Barai
+# Hey there 👋, I'm Yash Barai
 
-🎓 MCA Student | 💻 Java & Web Developer | 🚀 MERN Stack Learner
+#💻 Full Stack Developer | ☕ Java Enthusiast | 🚀 Building, Learning, Improving
 
-I enjoy building applications that solve real-world problems while continuously improving my problem-solving and software development skills. Currently focused on Web Development, Data Structures & Algorithms, and building full-stack projects.
+## I enjoy creating software that combines functionality with simplicity. From developing Java-based systems to building full-stack web applications, I focus on understanding how things work under the hood and continuously refining my development skills through projects and hands-on learning.
+
 
 ---
 
