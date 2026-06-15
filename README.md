@@ -52,6 +52,14 @@ I enjoy building applications that solve real-world problems while continuously 
 
 ## 🚀 Featured Projects
 
+### 🌐 [University Management System](https://github.com/baraiyash/University-Management-System)
+
+Full-stack MERN web application for managing students, professors, courses, attendance, study materials, and academic workflows.
+
+**Tech:** MongoDB • Express.js • React • Node.js
+
+---
+
 ### 🏦 [Bank Management System](https://github.com/baraiyash/BankManagementSystem)
 
 Desktop banking application developed using Java Swing, Applet, and MySQL for managing banking operations and customer transactions.
@@ -68,14 +76,6 @@ Role-based Core Java application for managing students, professors, courses, att
 
 ---
 
-### 🌐 [University Management System](https://github.com/baraiyash/University-Management-System)
-
-Full-stack MERN web application for managing students, professors, courses, attendance, study materials, and academic workflows.
-
-**Tech:** MongoDB • Express.js • React • Node.js
-
----
-
 ### 📚 [College Course Registration System](https://github.com/baraiyash/College-Course-Registration-System)
 
 Console-based Java application for managing course registrations, student enrollments, course search, and administrative operations using OOP principles.
@@ -83,6 +83,7 @@ Console-based Java application for managing course registrations, student enroll
 **Tech:** Java • OOP • Collections Framework • Exception Handling
 
 ---
+
 
 ## 📈 Currently Working On
 
@@ -102,11 +103,33 @@ Console-based Java application for managing course registrations, student enroll
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/yash-barai84
-* GitHub: https://github.com/baraiyash
-* Email: yashhbarai@gmail.com
+<p align="center">
+  <a href="https://github.com/baraiyash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/baraiyash">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yashhbarai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/yash_baraii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/baraiyash">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baraiyash&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
