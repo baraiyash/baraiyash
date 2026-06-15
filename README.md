@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Yash Barai
 
-# 💻 Full Stack Developer | ☕ Java Enthusiast | 🚀 Building, Learning, Improving
+## 💻 Full Stack Developer | ☕ Java Enthusiast | 🚀 Building, Learning, Improving
 
 I enjoy creating software that combines functionality with simplicity. From developing Java-based systems to building full-stack web applications, I focus on understanding how things work under the hood and continuously refining my development skills through projects and hands-on learning.
 
