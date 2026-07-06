@@ -4,7 +4,9 @@
 
 ### 💻 Full Stack Developer | ☕ Java Enthusiast | 🚀 Always Learning & Building
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Learner;Problem+Solver;Always+Learning+New+Things" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Spring+Boot+Learner;Problem+Solver;Always+Learning+New+Things"/>
+</p>
 
 </div>
 
@@ -12,12 +14,26 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Passionate about **Software Development & Backend Engineering**
-- 🌱 Currently learning **Advanced MERN Stack, Spring Boot, Docker & Kubernetes**
-- 🧠 Solving **Data Structures & Algorithms** problems regularly
-- 🚀 Building real-world projects to strengthen practical development skills
-- 🎯 Goal: Become a skilled Software Engineer
+🎓 Pursuing **Master of Computer Applications (MCA)**
+
+💻 Passionate about **Software Development, Backend Development, and Full Stack Applications**
+
+🌱 Currently learning
+
+- MERN Stack
+- Spring Boot
+- Docker
+- Kubernetes
+
+🧠 Regularly practicing
+
+- Data Structures & Algorithms
+- Problem Solving
+- Object-Oriented Programming
+
+🎯 Goal
+
+Become a Software Engineer who builds scalable and user-friendly applications.
 
 ---
 
@@ -35,19 +51,26 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ## 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## ☁️ Cloud & Deployment
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 🛠️ Tools
 
@@ -55,87 +78,93 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## ☁️ Cloud & Deployment
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-<a href="https://github.com/baraiyash/University-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baraiyash&repo=University-Management-System&theme=tokyonight&hide_border=true"/>
-</a>
+## 🌐 University Management System (MERN)
 
-<a href="https://github.com/baraiyash/BankManagementSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baraiyash&repo=BankManagementSystem&theme=tokyonight&hide_border=true"/>
-</a>
+🔗 https://github.com/baraiyash/University-Management-System
 
-<a href="https://github.com/baraiyash/Campus-Connect-University-Management-System-Master">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baraiyash&repo=Campus-Connect-University-Management-System-Master&theme=tokyonight&hide_border=true"/>
-</a>
+A full-stack web application for managing students, professors, attendance, study materials, assignments, and academic workflows.
 
-<a href="https://github.com/baraiyash/College-Course-Registration-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baraiyash&repo=College-Course-Registration-System&theme=tokyonight&hide_border=true"/>
-</a>
+**Tech Stack**
+
+`MongoDB` • `Express.js` • `React.js` • `Node.js`
 
 ---
 
-# 📈 GitHub Statistics
+## 🏦 Bank Management System
 
-<p align="center">
+🔗 https://github.com/baraiyash/BankManagementSystem
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=baraiyash&show_icons=true&theme=tokyonight&hide_border=true"/>
+A desktop banking application built using Java Swing and MySQL with secure login, account management, transactions, and customer operations.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraiyash&layout=compact&theme=tokyonight&hide_border=true"/>
+**Tech Stack**
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=baraiyash&theme=tokyonight&hide_border=true"/>
-
-</p>
+`Java` • `Swing` • `MySQL`
 
 ---
 
-# 📊 Contribution Graph
+## 🎓 Campus Connect
 
-<p align="center">
+🔗 https://github.com/baraiyash/Campus-Connect-University-Management-System-Master
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baraiyash&theme=tokyo-night"/>
+A role-based university management system with separate Admin, Faculty, and Student modules.
 
-</p>
+### Features
+
+- Student Management
+- Faculty Management
+- Attendance
+- Marks
+- Fee Management
+- Leave Management
+
+**Tech Stack**
+
+`Java` • `Swing` • `MySQL`
 
 ---
 
-# 💻 LeetCode Stats
+## 📚 College Course Registration System
 
-<p align="center">
+🔗 https://github.com/baraiyash/College-Course-Registration-System
 
-<img src="https://leetcard.jacoblin.cool/baraiyash?theme=dark&font=Poppins&ext=heatmap"/>
+Console-based application implementing Object-Oriented Programming concepts and Collections Framework.
 
-</p>
+**Tech Stack**
+
+`Java` • `Collections Framework` • `OOP`
 
 ---
 
 # 🎯 Currently Working On
 
-- 🌱 MERN Stack
+- 🚀 MERN Stack
 - ☕ Advanced Java
-- 🚀 Spring Boot
+- 🌱 Spring Boot
 - 🐳 Docker
 - ☸ Kubernetes
-- 📚 Data Structures & Algorithms
+- 📚 LeetCode & DSA
+
+---
+
+# 🏆 Certifications
+
+- AWS Academy Cloud Foundations
+- HackerRank Java Certificate
+- HackerRank SQL Certificate
+- Scaler Java Course
+
+---
+
+# 📈 GitHub Activity
+
+- 💻 Regularly building Java & MERN projects
+- 🧠 Solving Data Structures & Algorithms
+- 🌱 Continuously learning new technologies
 
 ---
 
@@ -169,7 +198,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=baraiyash&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=baraiyash&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -177,10 +206,10 @@
 
 <div align="center">
 
-## 💡 Quote
+## 💡 Favorite Quote
 
-*"It's not about never getting errors. It's about always finding a way to solve them."*
+> **"It's not about never getting errors. It's about always finding a way to solve them."**
 
-⭐ If you like my work, consider giving a star to my repositories.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </div>
