@@ -113,15 +113,6 @@ A desktop banking application built using Java Swing and MySQL with secure login
 
 A role-based university management system with separate Admin, Faculty, and Student modules.
 
-### Features
-
-- Student Management
-- Faculty Management
-- Attendance
-- Marks
-- Fee Management
-- Leave Management
-
 **Tech Stack**
 
 `Java` • `Swing` • `MySQL`
