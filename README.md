@@ -83,6 +83,18 @@ Become a Software Engineer who builds scalable and user-friendly applications.
 
 # 🚀 Featured Projects
 
+## 🚂 RailEase — Railway Reservation System
+
+🔗 https://github.com/baraiyash/RailEase
+
+A role-based Railway Reservation System built using Core Java and MySQL. Users can search trains by city, book tickets, check PNR status, manage bookings, and experience automatic waiting list promotion, while admins manage stations, trains, journeys, and bookings.
+
+**Tech Stack**
+
+`Java` • `JDBC` • `MySQL` • `CLI` • `OOP`
+
+---
+
 ## 🌐 University Management System (MERN)
 
 🔗 https://github.com/baraiyash/University-Management-System
