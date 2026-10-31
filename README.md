@@ -2,38 +2,13 @@
 
 # Hi 👋, I'm Yash Barai
 
-### 💻 Full Stack Developer | ☕ Java Enthusiast | 🚀 Always Learning & Building
+### Java Full Stack Developer | Building Scalable Solutions
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Spring+Boot+Learner;Problem+Solver;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Developer;Problem+Solver;Absolute+Learner" alt="Typing SVG" />
 </p>
 
 </div>
-
----
-
-# 👨‍💻 About Me
-
-🎓 Pursuing **Master of Computer Applications (MCA)**
-
-💻 Passionate about **Software Development, Backend Development, and Full Stack Applications**
-
-🌱 Currently learning
-
-- MERN Stack
-- Spring Boot
-- Docker
-- Kubernetes
-
-🧠 Regularly practicing
-
-- Data Structures & Algorithms
-- Problem Solving
-- Object-Oriented Programming
-
-🎯 Goal
-
-Become a Software Engineer who builds scalable and user-friendly applications.
 
 ---
 
@@ -56,6 +31,7 @@ Become a Software Engineer who builds scalable and user-friendly applications.
 
 ## ⚙️ Backend
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
@@ -81,93 +57,15 @@ Become a Software Engineer who builds scalable and user-friendly applications.
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚂 RailEase — Railway Reservation System
-
-🔗 https://github.com/baraiyash/RailEase
-
-A role-based Railway Reservation System built using Core Java and MySQL. Users can search trains by city, book tickets, check PNR status, manage bookings, and experience automatic waiting list promotion, while admins manage stations, trains, journeys, and bookings.
-
-**Tech Stack**
-
-`Java` • `JDBC` • `MySQL` • `CLI` • `OOP`
-
----
-
-## 🌐 University Management System (MERN)
-
-🔗 https://github.com/baraiyash/University-Management-System
-
-A full-stack web application for managing students, professors, attendance, study materials, assignments, and academic workflows.
-
-**Tech Stack**
-
-`MongoDB` • `Express.js` • `React.js` • `Node.js`
-
----
-
-## 🏦 Bank Management System
-
-🔗 https://github.com/baraiyash/BankManagementSystem
-
-A desktop banking application built using Java Swing and MySQL with secure login, account management, transactions, and customer operations.
-
-**Tech Stack**
-
-`Java` • `Swing` • `MySQL`
-
----
-
-## 🎓 Campus Connect
-
-🔗 https://github.com/baraiyash/Campus-Connect-University-Management-System-Master
-
-A role-based university management system with separate Admin, Faculty, and Student modules.
-
-**Tech Stack**
-
-`Java` • `Swing` • `MySQL`
-
----
-
-## 📚 College Course Registration System
-
-🔗 https://github.com/baraiyash/College-Course-Registration-System
-
-Console-based application implementing Object-Oriented Programming concepts and Collections Framework.
-
-**Tech Stack**
-
-`Java` • `Collections Framework` • `OOP`
-
----
-
 # 🎯 Currently Working On
 
-- 🚀 MERN Stack
 - ☕ Advanced Java
 - 🌱 Spring Boot
+- 🤖 Spring AI
 - 🐳 Docker
-- ☸ Kubernetes
-- 📚 LeetCode & DSA
-
----
-
-# 🏆 Certifications
-
-- AWS Academy Cloud Foundations
-- HackerRank Java Certificate
-- HackerRank SQL Certificate
-- Scaler Java Course
-
----
-
-# 📈 GitHub Activity
-
-- 💻 Regularly building Java & MERN projects
-- 🧠 Solving Data Structures & Algorithms
-- 🌱 Continuously learning new technologies
+- ☸️ Kubernetes
+- 📨 Apache Kafka
+- 🏗️ System Design
 
 ---
 
@@ -176,23 +74,23 @@ Console-based application implementing Object-Oriented Programming concepts and 
 <p align="center">
 
 <a href="https://github.com/baraiyash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/baraiyash">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:yashhbarai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://leetcode.com/baraiyash">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://instagram.com/yash_baraii">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </p>
@@ -200,19 +98,5 @@ Console-based application implementing Object-Oriented Programming concepts and 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=baraiyash&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
-
+  <img src="https://komarev.com/ghpvc/?username=baraiyash&label=Profile+Views&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
-
----
-
-<div align="center">
-
-## 💡 Favorite Quote
-
-> **"It's not about never getting errors. It's about always finding a way to solve them."**
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-</div>
